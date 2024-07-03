@@ -1,0 +1,21 @@
+{
+  "name": "burin_bot",
+  "version": "1.0.0",
+  "description": "A source begin for the journey of Burin at Ency City",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luhan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.4",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.5.0"
+  }
+}
